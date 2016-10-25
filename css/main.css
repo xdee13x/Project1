@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+  font-family: Optima;
+  color: white;
+}
+
+#navigation{
+  font-size: 35px;
+  text-align: center;
+  background-color: green;
+}
+
+a{
+  color: white;
+}
+
+.navButton:hover{
+  background-color: goldenrod;
+  color: black;
+}
+
+#yelpwidget{
+  border-style: solid;
+  border-color: white;
+  border-width: 0.5px;
+}
+
+#sue{
+  height: 300px;
+  width: 370px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+h1{
+  text-align: center;
+  font-family: Optima;
+}
